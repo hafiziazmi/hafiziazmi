@@ -1,7 +1,8 @@
+<!---
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/6239368?v=4" align="center" style="width: 20%" />
-</div>  
-  
+</div>
+-->  
 
 ### <div align="center">I'm Hafizi, a full-time web developer from Shah Alam, Malaysia 👨‍💻 <br/> Available for freelance job too 🚀</div>
   
