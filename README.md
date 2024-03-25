@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/6239368?v=4" align="center" style="width: 100%" />
+<img src="https://avatars.githubusercontent.com/u/6239368?v=4" align="center" style="width: 20%" />
 </div>  
   
 
-### <div align="center">I'm Hafizi, a full-time web developer from Shah Alam, Malaysia 👨‍💻 Available for freelance job too 🚀</div>  
+### <div align="center">I'm Hafizi, a full-time web developer from Shah Alam, Malaysia 👨‍💻 <br/> Available for freelance job too 🚀</div>
   
 
-- 🔭 I’m currently still working on my own portfolio: HafiziAzmi.dev  
+🔭 I’m currently still working on my own portfolio: [HafiziAzmi.dev](https://www.hafiziazmi.dev)
   
 
-- 🌱 I’m currently learning DevOps and proper project management system  
+🌱 I’m currently learning DevOps and proper project management system  
   
 
-- ❓ Ask me about anything related to Wordpress and Laravel web development  
+❓ Ask me about anything related to Wordpress and Laravel web development  
   
 
-- ⚡ Fun fact: I speak Korean, Japanese & Arabic too  
+⚡ Fun fact: I speak Korean, Japanese & Arabic too  
   
 
 <br/>  
@@ -90,24 +90,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hafiziazmi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
+<br/>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
