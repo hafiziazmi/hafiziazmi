@@ -2,10 +2,11 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/6239368?v=4" align="center" style="width: 20%" />
 </div>
--->  
+-->
 
 ### <div align="center">I'm Hafizi, a full-time web developer from Shah Alam, Malaysia 👨‍💻 <br/> Available for freelance job too 🚀</div>
-  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fredoka&duration=4000&pause=1000&color=DA2929&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Hafizi+from+Malaysia)](https://git.io/typing-svg)
 
 🔭 I’m currently still working on my own portfolio: [HafiziAzmi.dev](https://www.hafiziazmi.dev)
   
